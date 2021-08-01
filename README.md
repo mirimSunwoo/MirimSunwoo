@@ -1,4 +1,8 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?height=200&text=Mirim%20Sunwoo!)
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mirimSunwoo)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirimSunwoo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mirimSunwoo/MirimSunwoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
