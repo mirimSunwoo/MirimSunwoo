@@ -9,7 +9,7 @@
 <img src="https://user-images.githubusercontent.com/73941301/150642309-9dcde02d-3967-4939-8c6f-974031ed7f10.png" width="100" height="100" align = "left">
 <img src="https://user-images.githubusercontent.com/73941301/150642310-6d6a9b3d-120a-4a05-9bed-ba1454b524a2.png" width="100" height="100" align = "left">
 <img src="https://user-images.githubusercontent.com/73941301/150642313-bd84cb18-5fa1-41b6-a558-2aea8d8d3ce9.png" width="100" height="100" align = "left">
-<img src="https://user-images.githubusercontent.com/73941301/150642315-2570a2c9-92cb-4e6d-8aa8-632bd21abd62.png" width="100" height="100" align = "left">
+<img src="https://user-images.githubusercontent.com/73941301/150642315-2570a2c9-92cb-4e6d-8aa8-632bd21abd62.png" width="100" height="100" align = "left"></br>
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mirimSunwoo)
