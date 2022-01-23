@@ -2,7 +2,7 @@
 ![reversal](https://capsule-render.vercel.app/api?height=200&type=waving&reversal=true&color=gradient&text=Mirim%20Sunwoo!)
 <img src="https://user-images.githubusercontent.com/73941301/150528051-a2797c9e-17dc-4fda-b45d-b6b2b885c577.png" width="400" height="400" align ="left" >
 
-
+<br>
 <p>
 <img src="https://user-images.githubusercontent.com/73941301/150642305-7b042e07-53a2-4ef3-8d47-2f73ccc45885.jpg" width="100" height="100" align = "left">
 <img src="https://user-images.githubusercontent.com/73941301/150642306-717ea5c0-348b-4cd2-9a80-aa64e7dbbf86.jpg" width="100" height="100" align = "left">
