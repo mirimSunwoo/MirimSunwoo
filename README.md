@@ -1,6 +1,6 @@
 
 ![reversal](https://capsule-render.vercel.app/api?height=200&type=waving&reversal=true&color=gradient&text=Mirim%20Sunwoo!)
-<img src="https://user-images.githubusercontent.com/73941301/150889833-7826b46c-afde-44e0-b20c-27f622f82d14.png" width="500" height="500" align ="center" marginLeft = "50">
+<img src="https://user-images.githubusercontent.com/73941301/150889833-7826b46c-afde-44e0-b20c-27f622f82d14.png" width="500" height="500" >
 
 <br>
 <p>
@@ -11,7 +11,7 @@
 <img src="https://user-images.githubusercontent.com/73941301/150642313-bd84cb18-5fa1-41b6-a558-2aea8d8d3ce9.png" width="100" height="100" align = "left">
 <img src="https://user-images.githubusercontent.com/73941301/150642315-2570a2c9-92cb-4e6d-8aa8-632bd21abd62.png" width="100" height="100" align = "left">
 <img src="https://user-images.githubusercontent.com/73941301/150642308-daa1cfbf-80a0-4b29-aaf2-ae5bf46d2c70.png" width="100" height="100" align = "left">
-<img src="https://user-images.githubusercontent.com/73941301/150642307-af98d627-9cdb-4e8c-b081-bb8438d4b48d.png" width="100" height="100" align = "left">
+<img src="https://user-images.githubusercontent.com/73941301/150642307-af98d627-9cdb-4e8c-b081-bb8438d4b48d.png" width="100" height="100">
 </p>
 
 
