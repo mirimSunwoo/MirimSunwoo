@@ -1,6 +1,6 @@
 
 ![reversal](https://capsule-render.vercel.app/api?height=200&type=waving&reversal=true&color=gradient&text=Mirim%20Sunwoo!)
-<img src="https://user-images.githubusercontent.com/73941301/150889833-7826b46c-afde-44e0-b20c-27f622f82d14.png" width="500" height="500" align ="left" >
+<img src="https://user-images.githubusercontent.com/73941301/150889833-7826b46c-afde-44e0-b20c-27f622f82d14.png" width="500" height="500" align ="center" marginLeft = "50">
 
 <br>
 <p>
