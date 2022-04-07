@@ -13,5 +13,6 @@
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mirimSunwoo)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mirimSunwoo)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mirimSunwoo&langs_count=8&layout=compact&theme=white)
+ -->
